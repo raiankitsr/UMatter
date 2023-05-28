@@ -79,7 +79,7 @@ const Navbar = ({ toggle }) => {
                 width="46"
                 height="46"
               />
-              <NavLogo to="/">UMatter</NavLogo>
+              <NavLogo to="/"><img src="https://media.istockphoto.com/id/1285093406/vector/u-letter-hand-drawn-symbol-vector-illustration-of-a-big-english-letter-u-hand-drawn-black.jpg?s=170667a&w=0&k=20&c=7eSB1yef0qOTsVV1KxDCKV_8elI0OpkVp9eDkheytYo=" ></img>Matter</NavLogo>
             </LogoinnerContainer>
             <MobileIcon onClick={handleToggle}>
               {
